@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Larissa\\desktop\\ProjetosGitHub\\controle-remoto\\controle-remoto.csproj": {}
+    "C:\\Users\\Larissa\\Desktop\\ProjetosGitHub\\controle-remoto\\controle-remoto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Larissa\\desktop\\ProjetosGitHub\\controle-remoto\\controle-remoto.csproj": {
+    "C:\\Users\\Larissa\\Desktop\\ProjetosGitHub\\controle-remoto\\controle-remoto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Larissa\\desktop\\ProjetosGitHub\\controle-remoto\\controle-remoto.csproj",
+        "projectUniqueName": "C:\\Users\\Larissa\\Desktop\\ProjetosGitHub\\controle-remoto\\controle-remoto.csproj",
         "projectName": "controle-remoto",
-        "projectPath": "C:\\Users\\Larissa\\desktop\\ProjetosGitHub\\controle-remoto\\controle-remoto.csproj",
+        "projectPath": "C:\\Users\\Larissa\\Desktop\\ProjetosGitHub\\controle-remoto\\controle-remoto.csproj",
         "packagesPath": "C:\\Users\\Larissa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Larissa\\desktop\\ProjetosGitHub\\controle-remoto\\obj\\",
+        "outputPath": "C:\\Users\\Larissa\\Desktop\\ProjetosGitHub\\controle-remoto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Larissa\\AppData\\Roaming\\NuGet\\NuGet.Config"

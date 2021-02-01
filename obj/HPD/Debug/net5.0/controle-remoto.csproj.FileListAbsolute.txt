@@ -1,0 +1,16 @@
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\bin\HPD\Debug\net5.0\controle-remoto.exe
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\bin\HPD\Debug\net5.0\controle-remoto.deps.json
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\bin\HPD\Debug\net5.0\controle-remoto.runtimeconfig.json
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\bin\HPD\Debug\net5.0\controle-remoto.runtimeconfig.dev.json
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\bin\HPD\Debug\net5.0\controle-remoto.dll
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\bin\HPD\Debug\net5.0\ref\controle-remoto.dll
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\bin\HPD\Debug\net5.0\controle-remoto.pdb
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\obj\HPD\Debug\net5.0\controle-remoto.csprojAssemblyReference.cache
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\obj\HPD\Debug\net5.0\controle-remoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\obj\HPD\Debug\net5.0\controle-remoto.AssemblyInfoInputs.cache
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\obj\HPD\Debug\net5.0\controle-remoto.AssemblyInfo.cs
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\obj\HPD\Debug\net5.0\controle-remoto.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\obj\HPD\Debug\net5.0\controle-remoto.dll
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\obj\HPD\Debug\net5.0\ref\controle-remoto.dll
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\obj\HPD\Debug\net5.0\controle-remoto.pdb
+C:\Users\Larissa\Desktop\ProjetosGitHub\controle-remoto\obj\HPD\Debug\net5.0\controle-remoto.genruntimeconfig.cache
